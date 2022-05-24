@@ -1,5 +1,8 @@
-### Hi there 👋
+### プロフィール
 
+<ul>
+  <li>名前：中谷 祐貴</li>
+</ul>
 <!--
 **n-yuki28/n-yuki28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
