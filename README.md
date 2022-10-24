@@ -15,7 +15,11 @@
   <li>中谷 祐貴, 梶原 智之, 二宮 崇. 
     機械翻訳の強化学習に適した報酬関数の調査, 
     人工知能学会第36回全国大会, 1P4-GS-6, 2022.</li>
+  <li>Yuki Nakatani, Tomoyuki Kajiwara and Takashi Ninomiya.
+    Comparing BERT-based Reward Functions for Deep Reinforcement Learning in Machine Translation,
+    The 9th Workshop on Asian Translation, 2022.</li>
 </ul>
+
 <!--
 **n-yuki28/n-yuki28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
